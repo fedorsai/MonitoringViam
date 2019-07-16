@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="PressMachineModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="PressMachineModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PressSet" EntityType="PressMachineModel.Press" />
+    <EntitySet Name="PressDataSet" EntityType="PressMachineModel.PressData" />
+    <AssociationSet Name="PressPressDataAssociation" Association="PressMachineModel.PressPressDataAssociation">
+      <End Role="Press" EntitySet="PressSet" />
+      <End Role="PressData" EntitySet="PressDataSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Press">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <NavigationProperty Name="PressDataSet" Relationship="PressMachineModel.PressPressDataAssociation" FromRole="Press" ToRole="PressData" />
+  </EntityType>
+  <EntityType Name="PressData">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Position" Type="Decimal" Nullable="false" />
+    <Property Name="Pressue" Type="Decimal" Nullable="false" />
+    <Property Name="Power" Type="Decimal" Nullable="false" />
+    <Property Name="Speed" Type="Decimal" Nullable="false" />
+    <Property Name="Temperature" Type="Decimal" Nullable="false" />
+    <Property Name="InsertTime" Type="String" Nullable="false" />
+    <NavigationProperty Name="Press" Relationship="PressMachineModel.PressPressDataAssociation" FromRole="PressData" ToRole="Press" />
+    <Property Name="PressId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="PressPressDataAssociation">
+    <End Type="PressMachineModel.Press" Role="Press" Multiplicity="1" />
+    <End Type="PressMachineModel.PressData" Role="PressData" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Press">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PressData">
+        <PropertyRef Name="PressId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

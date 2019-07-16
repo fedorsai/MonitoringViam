@@ -1,0 +1,141 @@
+﻿<Window x:Class="PressMachine.ChartWindow"
+        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PressMachine"
+        xmlns:toolkit="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        xmlns:charting="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        xmlns:charting1="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        
+        Title="MainWindow" Height="450" Width="800">
+
+    <!--<Style x:Key="LineDataPointStyle" TargetType="{x:Type chartingToolkit:LineDataPoint}">
+    <Setter Property="Background" Value="Blue" ></Setter>
+    <Setter Property="Opacity" Value="0" />
+  </Style>-->
+
+    <Window.Resources>
+        <Style x:Key="DataPointStyle1" TargetType="{x:Type charting:LineDataPoint}">
+            <Setter Property="Background" Value="Blue"/>
+            <Setter Property="Width" Value="32"></Setter>
+            <Setter Property="Height" Value="32"></Setter>
+            <Setter Property="Opacity" Value="0" />
+
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="charting:LineDataPoint">
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+        <Style x:Key="LegendStyle1" TargetType="charting1:Legend">
+            <Setter Property="Width" Value="0" />
+        </Style>
+
+        <Style x:Key="DataPointStyle2" TargetType="{x:Type charting:LineDataPoint}">
+            <Setter Property="Background" Value="Red"/>
+            <Setter Property="Width" Value="32"></Setter>
+            <Setter Property="Height" Value="32"></Setter>
+            <Setter Property="Opacity" Value="0" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="charting:LineDataPoint">
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid Background="LightBlue">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!--xmlns:toolkit="clr-namespace:Microsoft.Windows.Controls;assembly=WPFToolkit.Extended"-->
+        <!--Шапка с фильтром-->
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Margin="5" FontSize="14">Пресс:</TextBlock>
+            <ComboBox Margin="5" Width="199" ItemsSource="{Binding Path=Presses}" SelectedItem="{Binding SelectedPress}" DisplayMemberPath="Name" SelectedValuePath="Name" SelectedValue="{Binding Path=Id}" >
+                <!--<ComboBoxItem Content="Пресс 1" FontSize="14"></ComboBoxItem>
+                <ComboBoxItem Content="Пресс 2" FontSize="14"></ComboBoxItem>-->
+            </ComboBox>
+            <TextBlock Margin="5" FontSize="14">Список прессований:</TextBlock>
+            <ComboBox Margin="5" Width="199" ItemsSource="{Binding Path=PressDataSelected, Mode=TwoWay}"  SelectedItem="{Binding SelectedPressData}" DisplayMemberPath="DateInsert" SelectedValuePath="UniqueId" SelectedValue="{Binding Path=UniqueId}" >
+                <!--<ComboBoxItem Content="Пресс 1" FontSize="14"></ComboBoxItem>
+                <ComboBoxItem Content="Пресс 2" FontSize="14"></ComboBoxItem>-->
+            </ComboBox>
+            <TextBlock Margin="5" FontSize="14">Дата прессования:</TextBlock>
+            <!--TargetNullValue={x:Static System:DateTime.Now}-->
+            <DatePicker HorizontalAlignment="Left" SelectedDate="{Binding Path=From, Mode=TwoWay,  StringFormat='dd.MM.yyyy'}" Margin="5" ></DatePicker>
+         
+            <Button Margin="5" Padding="3" FontSize="14" Command="{Binding CreateReportCommand}" >Выгрузить данные</Button>
+
+        </StackPanel>
+
+        <!--4 графика (каждый график обернут в грид)-->
+        <Grid Grid.Row="1" Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <charting:Chart Title="Скорость, мм/с" Margin="5" Name="ChartSpeed">
+
+                <charting:Chart.Axes>
+                    <charting:LinearAxis Orientation="Y" Minimum="0"  ShowGridLines="True"/>
+                </charting:Chart.Axes>
+
+                <charting:LineSeries  DataPointStyle="{StaticResource DataPointStyle1}" Title="Скорость" ItemsSource="{Binding SpeedData1}" IndependentValuePath ="Key" IsSelectionEnabled="True" DependentValuePath="Value">
+                </charting:LineSeries >
+
+                <charting:LineSeries DataPointStyle="{StaticResource DataPointStyle2}" Title="Скорость уставка" ItemsSource="{Binding SpeedSPData}" IndependentValuePath ="Key" IsSelectionEnabled="True" DependentValuePath="Value"/>
+                
+            </charting:Chart>
+
+            <charting:Chart  Grid.Column="1" Title="Положение, мм" Margin="5">
+
+                <charting:Chart.Axes>
+                    <charting:LinearAxis Orientation="Y" Minimum="0" Maximum="800" ShowGridLines="True"/>
+                </charting:Chart.Axes>
+
+                <charting:LineSeries DataPointStyle="{StaticResource DataPointStyle1}" Title="Положение" ItemsSource="{Binding PositionData1}" IndependentValuePath ="Key" IsSelectionEnabled="True" DependentValuePath="Value"/>
+
+                <charting:LineSeries DataPointStyle="{StaticResource DataPointStyle2}" Title="Положение уставка" ItemsSource="{Binding PositionSPData}" IndependentValuePath ="Key" IsSelectionEnabled="True" DependentValuePath="Value"/>
+            </charting:Chart>
+
+            <charting:Chart  Grid.Row="1" Title="Усилие, т/с" Margin="5">
+
+                <charting:Chart.Axes>
+                    <charting:LinearAxis Orientation="Y" Minimum="0" ShowGridLines="True"/>
+                </charting:Chart.Axes>
+
+                <charting:LineSeries DataPointStyle="{StaticResource DataPointStyle1}" Title="Усилие" ItemsSource="{Binding PowerData1}" IndependentValuePath ="Key" IsSelectionEnabled="True" DependentValuePath="Value"/>
+
+                <charting:LineSeries DataPointStyle="{StaticResource DataPointStyle2}" Title="Усилие уставка" ItemsSource="{Binding PowerSPData}" IndependentValuePath ="Key" IsSelectionEnabled="True" DependentValuePath="Value"/>
+            </charting:Chart>
+
+            <charting:Chart  Grid.Row="1" Grid.Column="1" Title="Температура, *С" Margin="5">
+
+                <charting:Chart.Axes>
+                    <charting:LinearAxis Orientation="Y" Minimum="0" Maximum="1150" ShowGridLines="True" />
+                </charting:Chart.Axes>
+
+                <charting:LineSeries DataPointStyle="{StaticResource DataPointStyle1}" Title="Температура" ItemsSource="{Binding TemperatureData}" IndependentValuePath ="Key" IsSelectionEnabled="True" DependentValuePath="Value"/>
+            </charting:Chart>
+        </Grid>
+    </Grid>
+</Window>

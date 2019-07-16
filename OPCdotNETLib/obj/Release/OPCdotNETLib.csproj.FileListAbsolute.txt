@@ -1,0 +1,33 @@
+C:\prg\ZDPressNew\ZDPressNew\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+C:\prg\ZDPressNew\ZDPressNew\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\OPCdotNETLib\obj\Release\OPCdotNETLib.csprojResolveAssemblyReference.cache
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew2\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew2\OPCdotNETLib\obj\Release\OPCdotNETLib.csprojResolveAssemblyReference.cache
+C:\Users\Фёдор\Desktop\ZDPressNew2\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+E:\ZDPressNew2\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+E:\ZDPressNew2\OPCdotNETLib\obj\Release\OPCdotNETLib.csprojResolveAssemblyReference.cache
+E:\ZDPressNew2\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+E:\ZDPress_18_04_03_1\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+E:\ZDPress_18_04_03_1\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+E:\ZDPress_18_04_05\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+E:\ZDPress_18_04_05\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\OPCdotNETLib\obj\Release\OPCdotNETLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\OPCdotNETLib\obj\Release\OPCdotNETLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\OPCdotNETLib\obj\Release\OPCdotNETLib.csprojResolveAssemblyReference.cache
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\OPCdotNETLib\obj\Release\OPCdotNETLib.csproj.CoreCompileInputs.cache
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+D:\projects\ВИАМ\PressMachine\PressMachine\OPCdotNETLib\bin\Release\OPCdotNETLib.dll
+D:\projects\ВИАМ\PressMachine\PressMachine\OPCdotNETLib\obj\Release\OPCdotNETLib.csproj.CoreCompileInputs.cache
+D:\projects\ВИАМ\PressMachine\PressMachine\OPCdotNETLib\obj\Release\OPCdotNETLib.dll
+D:\projects\ВИАМ\PressMachine\PressMachine\OPCdotNETLib\obj\Release\OPCdotNETLib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,124 @@
+C:\prg\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+C:\prg\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+C:\prg\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\log4net.dll
+C:\prg\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+C:\prg\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\log4net.xml
+C:\prg\ZDPressNew\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+C:\prg\ZDPressNew\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+C:\prg\ZDPressNew\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\log4net.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\log4net.xml
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\log4net.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\ZDPress.Core\bin\Release\log4net.xml
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPressNew\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPress.Core\bin\Release\log4net.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPress.Core\bin\Release\log4net.xml
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPressNew\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPressNew2\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPressNew2\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPressNew2\ZDPress.Core\bin\Release\log4net.dll
+C:\Users\Фёдор\Desktop\ZDPressNew2\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPressNew2\ZDPress.Core\bin\Release\log4net.xml
+C:\Users\Фёдор\Desktop\ZDPressNew2\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPressNew2\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPressNew2\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+E:\ZDPressNew2\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+E:\ZDPressNew2\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+E:\ZDPressNew2\ZDPress.Core\bin\Release\log4net.dll
+E:\ZDPressNew2\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+E:\ZDPressNew2\ZDPress.Core\bin\Release\log4net.xml
+E:\ZDPressNew2\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+E:\ZDPressNew2\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+E:\ZDPressNew2\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+E:\ZDPress_18_04_03\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+E:\ZDPress_18_04_03\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+E:\ZDPress_18_04_03\ZDPress.Core\bin\Release\log4net.dll
+E:\ZDPress_18_04_03\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+E:\ZDPress_18_04_03\ZDPress.Core\bin\Release\log4net.xml
+E:\ZDPress_18_04_03\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+E:\ZDPress_18_04_03\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+E:\ZDPress_18_04_03\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+E:\ZDPress_18_04_03_1\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+E:\ZDPress_18_04_03_1\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+E:\ZDPress_18_04_03_1\ZDPress.Core\bin\Release\log4net.dll
+E:\ZDPress_18_04_03_1\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+E:\ZDPress_18_04_03_1\ZDPress.Core\bin\Release\log4net.xml
+E:\ZDPress_18_04_03_1\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+E:\ZDPress_18_04_03_1\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+E:\ZDPress_18_04_03_1\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPress_18_04_05\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPress_18_04_05\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+C:\Users\Фёдор\Desktop\ZDPress_18_04_05\ZDPress.Core\bin\Release\log4net.dll
+C:\Users\Фёдор\Desktop\ZDPress_18_04_05\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+C:\Users\Фёдор\Desktop\ZDPress_18_04_05\ZDPress.Core\bin\Release\log4net.xml
+C:\Users\Фёдор\Desktop\ZDPress_18_04_05\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+C:\Users\Фёдор\Desktop\ZDPress_18_04_05\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+C:\Users\Фёдор\Desktop\ZDPress_18_04_05\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+E:\ZDPress_18_04_05\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+E:\ZDPress_18_04_05\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+E:\ZDPress_18_04_05\ZDPress.Core\bin\Release\log4net.dll
+E:\ZDPress_18_04_05\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+E:\ZDPress_18_04_05\ZDPress.Core\bin\Release\log4net.xml
+E:\ZDPress_18_04_05\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+E:\ZDPress_18_04_05\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+E:\ZDPress_18_04_05\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\ZDPress.Core\bin\Release\log4net.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\ZDPress.Core\bin\Release\log4net.xml
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_16052018\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\ZDPress.Core\bin\Release\log4net.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\ZDPress.Core\bin\Release\log4net.xml
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+D:\projects\ЖД Пресс 2\ZHDPress2_10072018\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\bin\Release\log4net.dll
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\bin\Release\log4net.xml
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\obj\Release\ZDPress.Opc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\obj\Release\ZDPress.Opc.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+C:\Users\Administrator\Desktop\ZHDPress2_17072018\ZHDPress2_17072018\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\ZDPress.Core\bin\Release\log4net.dll
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\ZDPress.Core\bin\Release\log4net.xml
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\ZDPress.Core\obj\Release\ZDPress.Opc.csproj.CoreCompileInputs.cache
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+C:\Users\sfedo\Desktop\PressMachine\PressMachine\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
+D:\projects\ВИАМ\PressMachine\PressMachine\ZDPress.Core\bin\Release\ZDPress.Opc.dll
+D:\projects\ВИАМ\PressMachine\PressMachine\ZDPress.Core\bin\Release\ZDPress.Opc.pdb
+D:\projects\ВИАМ\PressMachine\PressMachine\ZDPress.Core\bin\Release\log4net.dll
+D:\projects\ВИАМ\PressMachine\PressMachine\ZDPress.Core\bin\Release\OPCdotNETLib.dll
+D:\projects\ВИАМ\PressMachine\PressMachine\ZDPress.Core\bin\Release\log4net.xml
+D:\projects\ВИАМ\PressMachine\PressMachine\ZDPress.Core\obj\Release\ZDPress.Opc.csprojResolveAssemblyReference.cache
+D:\projects\ВИАМ\PressMachine\PressMachine\ZDPress.Core\obj\Release\ZDPress.Opc.csproj.CoreCompileInputs.cache
+D:\projects\ВИАМ\PressMachine\PressMachine\ZDPress.Core\obj\Release\ZDPress.Opc.dll
+D:\projects\ВИАМ\PressMachine\PressMachine\ZDPress.Core\obj\Release\ZDPress.Opc.pdb
